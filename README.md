@@ -3,7 +3,7 @@
 ## 1. Contact
 > I like Bot
 
-> gg/SDDBSwHt
+>  gg/GXtshq7Qwe
 
 > format flag: flag{namebot} 
 
